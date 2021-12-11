@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pebrian Charliady (you can call me peb)</h1>
+<h1 align="center">Hi 👋, I'm Pebrian Charliady</h1>
 <h3 align="center">Self-Taught Frontend Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [Tartun ( Tarik Tunai ) 💲](https://tartun.explorewisata.id/) And [Sponsorlytix](https://sponsorlytix.io) 🏈
