@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pebrian Charliady</h1>
 <h3 align="center">Self-Taught Frontend Developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Tartun ( Tarik Tunai ) 💲](https://tartun.explorewisata.id/) And [Sponsorlytix](https://sponsorlytix.io) 🏈
-
 - I'm currently learning **Game Development 🎮**
 
 - 👨‍💻 All of my projects are available at [https://pebriancharliady.github.io](https://pebriancharliady.github.io)
